@@ -1,0 +1,33 @@
+Piloto 20 réplicas: media 1080.9, s 93.0 -> n requerido = 95
+Corridas n=95: media 1059.5, s 93.5
+Real: media 1081.6, s 79.7
+F = 1.376 (p 0.294) | t = -1.244 (p 0.216)
+
+Estación: inventario promedio | permanencia promedio | utilización
+  CTC    1.07   14.38   58.5%
+  LL     1.19   16.00   23.8%
+  CCZ    0.74    9.94   51.0%
+  TO     0.50    6.68   49.6%
+  CP     0.35    4.50   35.2%
+  AQ     0.34    4.30   33.6%
+  DE     0.43    5.48   39.1%
+  IN     0.43    5.50   43.0%
+  IC     0.45    6.00   44.6%
+  SO     0.61    8.18   52.2%
+  LP     0.53    7.20    5.3%
+  DCC    1.12   15.22   65.3%
+Ciclo promedio de un contenedor: 127.7 min
+
+Contenedores vs hora de terminación (30 réplicas c/u)
+    4    2272.0
+    6    1589.5
+    8    1272.2
+   10    1074.0
+   12     981.3
+   14     902.9
+   16     896.0
+   18     848.5
+   20     863.5
+   22     861.5
+   25     857.2
+   30     865.2

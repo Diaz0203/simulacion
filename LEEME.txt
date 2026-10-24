@@ -1,0 +1,16 @@
+Taller ensamble de tarjetas - archivos de apoyo
+
+1. parte1_analisis.py   -> Parte I completa (11 variables). Uso:
+       python parte1_analisis.py Datos_taller_tarjetas_sistemas.xlsx salida_parte1
+   Requiere: numpy pandas scipy statsmodels matplotlib openpyxl
+   Salida ya generada en salida_parte1/ y parte1_salida.txt
+
+2. modelo_referencia_simpy.py -> modelo equivalente en Python (pip install simpy).
+   Sirve para comparar con FlexSim. Salida en ref_salida.txt
+
+3. analisis_parte4.py -> IC 90 %, utilizaciones y curva de contenedores
+   (salida_parte4_contenedores.png)
+
+datos/ -> las hojas del Excel como .csv (por si los scripts de clase los piden)
+
+Los resultados que se entregan en las Partes III y IV deben salir del modelo de FlexSim.
